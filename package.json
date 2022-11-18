@@ -64,7 +64,7 @@
     "prettier-eslint": "^9.0.0",
     "style-loader": "^0.23.1",
     "webpack-bundle-analyzer": "^3.5.2",
-    "webpack-cli": "^3.3.9",
+    "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.8.1",
     "write-file-webpack-plugin": "^4.5.1"
   },
